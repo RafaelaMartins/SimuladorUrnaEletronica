@@ -1,0 +1,12 @@
+Estado:MG
+Eleitores Aptos:20
+Total de Votos Nominais:6
+Total de Votos Nulos:1
+
+Candidato: José da Silva | Cargo: Governador | Estado: MG | Votos: 2 ( 33.33 ) %
+Candidato: Carlos Nascimento | Cargo: Governador | Estado: MG | Votos: 0 ( 0.00 ) %
+Candidato: Roberto Amaral | Cargo: Presidente | Estado: MG | Votos: 2 ( 33.33 ) %
+Candidato: Maria do Carmo | Cargo: Presidente | Estado: SP | Votos: 0 ( 0.00 ) %
+Candidato: Pedro de Azevedo | Cargo: Presidente | Estado: PR | Votos: 0 ( 0.00 ) %
+Candidato: Joaquim Ferreira | Cargo: Presidente | Estado: MG | Votos: 0 ( 0.00 ) %
+Candidato: Cristiano Costa | Cargo: Presidente | Estado: SP | Votos: 1 ( 16.67 ) %
